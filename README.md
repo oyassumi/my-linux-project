@@ -1,2 +1,2 @@
-# my_first_steps_in_Linux
-Мои первые Bash-скрипты по Linux
+# my_first_bash_scripts
+Мои первые Bash-скрипты в Linux
